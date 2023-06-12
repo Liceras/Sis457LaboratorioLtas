@@ -1,0 +1,12 @@
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\CadClinica.dll.config
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\CadClinica.dll
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\CadClinica.pdb
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\EntityFramework.dll
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\EntityFramework.xml
+C:\Sis324Clinica\Clinica\CadClinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sis324Clinica\Clinica\CadClinica\obj\Debug\CadClinica.csproj.AssemblyReference.cache
+C:\Sis324Clinica\Clinica\CadClinica\obj\Debug\CadClinica.csproj.CoreCompileInputs.cache
+C:\Sis324Clinica\Clinica\CadClinica\obj\Debug\CadClinica.csproj.CopyComplete
+C:\Sis324Clinica\Clinica\CadClinica\obj\Debug\CadClinica.dll
+C:\Sis324Clinica\Clinica\CadClinica\obj\Debug\CadClinica.pdb

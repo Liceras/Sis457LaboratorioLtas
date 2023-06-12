@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4b9c1197961141db98a01b4c7ce81a48" Name="Diagram1">
+        <EntityTypeShape EntityType="ClinicaModel.Citas" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClinicaModel.Dias" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClinicaModel.Especialidad" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClinicaModel.Horarios" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClinicaModel.Medico" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClinicaModel.Paciente" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClinicaModel.Usuario" Width="1.5" PointX="5.25" PointY="10.625" IsExpanded="true" />
+        <AssociationConnector Association="ClinicaModel.FK__Citas__id_Medico__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="ClinicaModel.FK__Citas__id_Pacien__4316F928" ManuallyRouted="false" />
+        <AssociationConnector Association="ClinicaModel.FK__Dias__id_Horario__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="ClinicaModel.FK__Dias__id_Medico__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="ClinicaModel.FK__Medico__id_Espec__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="ClinicaModel.FK__Usuario__id_Paci__46E78A0C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
